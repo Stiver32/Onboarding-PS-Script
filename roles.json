@@ -1,0 +1,10 @@
+{
+  "HelpDesk": {
+    "title": "Help Desk Technician",
+    "description": "Help Desk",
+    "groups": [
+      "HelpDesk_Team",
+      "VPN Users"
+    ]
+  }
+}
