@@ -24,9 +24,6 @@ Created to practice IT workflow automation and reduce repetitive manual steps du
 
 This is a public-safe version of an onboarding workflow. Company-specific names, domains, internal groups, and sensitive details have been removed.
 
-## What I Learned
-
-- PowerShell scripting fundamentals
-- Input validation
-- Automating repetitive IT tasks
-- Creating more consistent onboarding workflows
+## Known limitations
+- Name casing doesn't handle names like McDonald or O'Connell
+- Connection settings are hardcoded placeholders. Moving to config would be ideal
